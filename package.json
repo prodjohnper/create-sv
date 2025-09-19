@@ -1,0 +1,22 @@
+{
+  "name": "@sve0/create-sv",
+  "version": "1.0.0",
+  "description": "One-shot SvelteKit bootstrapper with Tailwind, ESLint, Prettier, and optional DaisyUI + Supabase.",
+  "bin": {
+    "create-sv": "index.js"
+  },
+  "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "svelte",
+    "sveltekit",
+    "tailwind",
+    "daisyui",
+    "supabase",
+    "cli",
+    "bootstrap"
+  ]
+}
